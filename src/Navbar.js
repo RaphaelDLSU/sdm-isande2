@@ -4,17 +4,19 @@ import './navbar.css';
 export default function Navbar (){
     return (
     <nav className="nav">
-        <ul>
-        <p>SDM Flow</p>
-        
-                <p>About us</p>
-                <p>Lessons</p>
-                <p>Faculty</p>
-                <p>Contact us</p>
-        
-        
-            <p>Student</p>
-        </ul>
-    </nav>
+        <div className='left-side-nav'>
+            
+            <ul>
+                <li>
+                    <h1 className='company-title'>SDM Flow</h1>
+                        <a>About us</a>
+                        <a>Lessons</a>
+                        <a>Faculty</a>
+                        <a>Contact us</a>
+                </li>
+            </ul>
+        </div>
+        <a className='user-title'>Student</a>
+    </nav>  
     );
 }
