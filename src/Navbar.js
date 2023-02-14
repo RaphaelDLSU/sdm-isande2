@@ -1,8 +1,8 @@
 
-import './navbar.css'
+import './navbar.css';
 export default function Navbar (){
     return (
-    <nav classname="nav">
+    <nav className="nav">
         <ul>
         <p>SDM Flow</p>
         
