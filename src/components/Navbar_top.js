@@ -1,7 +1,7 @@
-import './navbar.css';
+import '../navbar_top.css';
 
 
-export default function Navbar (){
+export default function Navbar_top (){
     return (
     <nav className="nav">
         <div className='left-side-nav'>

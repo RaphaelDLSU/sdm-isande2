@@ -13,6 +13,7 @@ body{
   align-items: stretch;
   gap: 2rem;
   padding: 0 1rem;
+  padding: 20px;
   }
 .nav ul{
   padding:0;
@@ -23,7 +24,6 @@ body{
 
 }
 .company-title{
-  font: 50px;
   display: inline;
   margin-right: 30px;
 }
@@ -40,4 +40,7 @@ body{
  }
 .user-title{
   font-weight: bold;
+}
+a{
+  font-size: 20px;
 }
