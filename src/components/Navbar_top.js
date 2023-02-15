@@ -1,5 +1,5 @@
 import '../navbar_top.css';
-import Logo from '../logo.jpg';
+import Logo from '../logo.png';
 import reactLogo from '../logo.svg';
 
 export default function Navbar_top (){
@@ -8,11 +8,7 @@ export default function Navbar_top (){
         <div className='left-side-nav'>
             <ul>
                 <li>
-                    <div className='company-part'>
-                        <img src = {Logo} alt={reactLogo}></img>
-                        <h1 className='company-title'>SDM Flow</h1>
-                    </div>
-                    
+                        <img className='company-title' src = {Logo} alt={reactLogo}></img>    
                         <a>About us</a>
                         <a>Lessons</a>
                         <a>Faculty</a>
