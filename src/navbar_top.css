@@ -44,3 +44,11 @@ body{
 a{
   font-size: 20px;
 }
+.company-part {
+  display: inline;
+
+}
+.company-part img{
+  height: 50px;
+
+}
