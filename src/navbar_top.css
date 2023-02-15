@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 *{
     box-sizing: border-box;
   }
@@ -23,6 +24,10 @@ body{
   gap:1rem
 
 }
+
+.nav li{
+  float:left;
+}
 .company-title{
   display: inline;
   margin-right: 30px;
@@ -36,11 +41,11 @@ body{
 .nav a{
   color: inherit;
   margin: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
     
  }
-.user-title{
-  font-weight: bold;
-}
+
 a{
   font-size: 20px;
 }
@@ -48,7 +53,9 @@ a{
   height: 50px;
 
 }
-.company-part img{
-  height: 50px;
-
+.company-title{
+  width: 191px;
+  height: 150px;
+  padding: 0 0 0 10px;
+  margin-right: 10px;
 }
