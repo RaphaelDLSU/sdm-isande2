@@ -2,7 +2,6 @@ import '../navbar_top.css';
 import Logo from '../logo.jpg';
 import reactLogo from '../logo.svg';
 
-
 export default function Navbar_top (){
     return (
     <nav className="nav">

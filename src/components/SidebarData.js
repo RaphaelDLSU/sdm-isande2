@@ -17,12 +17,12 @@ export const SidebarData = [
         link: '/student_schedule'
     },
     {
-        title: "Enroll",
+        title: "Inbox",
         icon:<InboxIcon style={{fontSize:60}}/>,
         link: '/student_inbox'
     },
     {
-        title: "Notification",
+        title: "Notifications",
         icon:<NotificationIcon style={{fontSize:60}}/>,
         link: '/student_notification'
     },
