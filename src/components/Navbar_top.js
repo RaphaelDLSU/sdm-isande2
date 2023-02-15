@@ -1,11 +1,9 @@
 import '../navbar_top.css';
 
-
 export default function Navbar_top (){
     return (
     <nav className="nav">
         <div className='left-side-nav'>
-            
             <ul>
                 <li>
                     <h1 className='company-title'>SDM Flow</h1>

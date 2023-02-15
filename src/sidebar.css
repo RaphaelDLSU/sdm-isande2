@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 .sidebar{
     height:100%;
     width:fit-content;
@@ -18,3 +19,11 @@
     padding-bottom:100px;
 
 }
+
+.title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
