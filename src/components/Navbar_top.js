@@ -14,7 +14,7 @@ export default function Navbar_top (){
                         <a>Faculty</a>
                         <a>Contact us</a>
                 </li>
-            </ul>
+            </ul>   
         </div>
         <a className='user-title'>Student</a>
     </nav>  

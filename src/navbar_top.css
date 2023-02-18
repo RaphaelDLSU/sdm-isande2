@@ -30,6 +30,7 @@ body{
 
 .left-side-nav{
   justify-content: flex-start;
+  vertical-align: middle;
 
 }
   
@@ -43,12 +44,11 @@ body{
 }
 a{
   font-size: 20px;
+  vertical-align: middle;
 }
-.company-part img{
-  height: 50px;
+.company-title{
+  vertical-align:middle;
+  height:50px
 
 }
-.company-part img{
-  height: 50px;
 
-}
