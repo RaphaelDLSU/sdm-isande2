@@ -9,7 +9,7 @@ export default function Navbar_top (){
             <ul>
                 <li>
                         <img className='company-title' src = {Logo} alt={reactLogo}></img>    
-                        <a>About us</a>
+                        <a>About Us</a>
                         <a>Lessons</a>
                         <a>Faculty</a>
                         <a>Contact us</a>
